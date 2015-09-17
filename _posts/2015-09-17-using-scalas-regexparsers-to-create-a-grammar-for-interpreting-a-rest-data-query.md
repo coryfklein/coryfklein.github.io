@@ -1,4 +1,9 @@
-# Using Scala's RegexParsers to create a grammar for interpreting a REST data query
+---
+layout: post
+title:  "Using Scala's RegexParsers to create a grammar for interpreting a REST data query"
+date:   2015-09-17 13:18:53
+categories: scala
+---
 
 ## Introduction
 

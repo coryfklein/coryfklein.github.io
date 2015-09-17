@@ -1,4 +1,9 @@
-# Change the notification sound for the Google Voice extension in Chrome
+---
+layout: post
+title:  "Change the notification sound for the Google Voice extension in Chrome"
+date:   2015-09-17 13:18:53
+categories: hacking
+---
 
 These instructions apply to *Linux* but can be applied to any operating system.
 

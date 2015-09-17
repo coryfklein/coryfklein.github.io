@@ -1,4 +1,9 @@
-# Overloading the "or equals" operator globally for an enum
+---
+layout: post
+title:  "Overloading the "or equals" operator globally for an enum"
+date:   2015-09-17 13:18:53
+categories: c++
+---
 
 Here is how to overload the `|=` operator globally for an enum in C++.
 

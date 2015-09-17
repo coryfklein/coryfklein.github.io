@@ -1,7 +1,9 @@
 ---
-title: A Working VI Mode Indicator in ZSH
+layout: post
+title:  "A Working VI Mode Indicator in ZSH"
+date:   2015-09-17 13:18:53
+categories: vi
 ---
-
 Thanks to [@dougblackio][1]'s article [Adding Vi To Your Zsh][2], I have this awesome `vi` mode indicator in my zsh.
 
 ![vi mode indicator in zsh][3]
@@ -34,8 +36,6 @@ I also removed [@dougblackio][1]'s custom git status code with this final result
 Run this command to automatically install this script into `~/.zshrc`
 
     curl http://www.coryklein.com/fileshare/zsh-vi-mode-indicator.txt >> myfile
-
-test
 
  [1]: https://twitter.com/dougblackio
  [2]: http://dougblack.io/words/zsh-vi-mode.html
