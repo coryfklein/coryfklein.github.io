@@ -30,11 +30,12 @@ I also removed [@dougblackio][1]'s custom git status code with this final result
     zle -N zle-keymap-select
     
     export KEYTIMEOUT=1
-    
 
 Run this command to automatically install this script into `~/.zshrc`
 
     curl http://www.coryklein.com/fileshare/zsh-vi-mode-indicator.txt >> myfile
+
+test
 
  [1]: https://twitter.com/dougblackio
  [2]: http://dougblack.io/words/zsh-vi-mode.html
