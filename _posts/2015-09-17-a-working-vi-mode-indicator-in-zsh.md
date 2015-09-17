@@ -1,4 +1,6 @@
-# A working vi mode indicator in zsh
+---
+title: A Working VI Mode Indicator in ZSH
+---
 
 Thanks to [@dougblackio][1]'s article [Adding Vi To Your Zsh][2], I have this awesome `vi` mode indicator in my zsh.
 
