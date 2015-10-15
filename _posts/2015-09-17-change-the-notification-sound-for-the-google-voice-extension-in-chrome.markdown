@@ -2,6 +2,7 @@
 layout: post
 title:  "Change the notification sound for the Google Voice extension in Chrome"
 date:   2015-09-17 13:18:53
+comments: true
 categories: hacking
 ---
 

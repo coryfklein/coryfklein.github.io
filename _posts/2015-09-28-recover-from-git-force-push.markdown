@@ -2,6 +2,7 @@
 layout: post
 title:  "Recover From Git Force Push"
 date:   2015-09-28 15:58:26
+comments: true
 categories: git
 ---
 

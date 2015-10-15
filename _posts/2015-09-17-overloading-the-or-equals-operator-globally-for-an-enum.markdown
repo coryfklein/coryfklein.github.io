@@ -2,6 +2,7 @@
 layout: post
 title:  "Overloading the 'or equals' operator globally for an enum"
 date:   2015-09-17 13:18:53
+comments: true
 categories: c++
 ---
 

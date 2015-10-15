@@ -2,6 +2,7 @@
 layout: post
 title:  "A Working VI Mode Indicator in ZSH"
 date:   2015-09-17 13:18:53
+comments: true
 categories: vi
 ---
 Thanks to [@dougblackio][1]'s article [Adding Vi To Your Zsh][2], I have this awesome `vi` mode indicator in my zsh.

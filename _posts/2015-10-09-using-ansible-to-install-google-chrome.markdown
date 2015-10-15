@@ -2,6 +2,7 @@
 layout: post
 title:  "Using Ansible To Install Headless Google Chrome for Selenium"
 date:   2015-10-09 16:25:57
+comments: true
 categories: ansible
 ---
 
