@@ -10,7 +10,6 @@ categories: scala
 Say we want to provide a way for users to find all brown bunny rabbits under the age of 3 whose name contains the letter c. This is one way we could make such a request via a RESTful api.
 
     GET bunnies.com/bunnies?filter=age < 3, name ~ 'c', color == brown
-    
 
 In this post, I will explain how to use Scala to create a grammar representing this query that could be used to produce the specific data requested.
 
@@ -19,7 +18,6 @@ In this post, I will explain how to use Scala to create a grammar representing t
 First we need to formalize the grammar. We are really only concerned with this part of the string.
 
     age < 3, name ~ 'c', color == brown
-    
 
 We need to break this string down into smaller and smaller parts. We'll start out with the string itself, and break it down until we get to atomic pieces.
 
@@ -30,7 +28,6 @@ Let's call the entire string an `expression-list`, and each specific comma-separ
 For now we'll just use a pseudo-language to define the grammar and help us visually layout the structure of the grammar. Later on we will convert it to functional Scala code.
 
     expression-list = expression (, expression)*
-    
 
 ### Expression
 
@@ -39,19 +36,16 @@ Here are the three expressions from our example
     age < 3
     name ~ 'c'
     color == brown    
-    
 
 Each is composed of three parts. A name, comparator, and a value. The name always appears on the left of the comparator, and the value on the right.
 
     expression = name comparator value
-    
 
 ### Name
 
 An `name` is a symbol. Let's follow standard convention and say that these must start with a letter or an underscore, which can then be followed by any number of letters, numbers, or underscores.
 
     name = [_a-zA-Z]+[_a-zA-Z0-9]*
-    
 
 If you are unfamiliar with this syntax, we've borrowed the grouping characters `[` and `]` from regular expressions and used them to indicate a group of valid characters. The `+` and `*` characters also are reminiscent of regular expressions and indicate "one or more" and "zero or more" respectively.
 
@@ -60,7 +54,6 @@ If you are unfamiliar with this syntax, we've borrowed the grouping characters `
 A `comparator` is really just a keyword or static phrase to reference which specific operation we use to compare the contents of a `name` to a `value`. In this language, let's just support the ones from the example. Namely, `<` (less than), `~` (contains), and `==` (equals).
 
     comparator = < | ~ | ==
-    
 
 The `|` character is called a pipe, and is used as an alternator, which means that a `comparator` can be a `<` OR A `~` OR A `==`.
 
@@ -71,12 +64,10 @@ A `value` represents something that can be compared against. A `name` only refer
 Ultimately, we would like anything to qualify as a `value`, but since these will be transmitted in a URL and also need to parseable, we will have to make some restrictions. Namely, we will disallow the ampersand and the comma.
 
     value = [^&',]+ | '[^&,]*'
-    
 
 Let's break this down. There are two possibilities, unquoted `[^&,]+` and quoted `'[^&,]*'` values. Adding in quotes to our grammar allows us the ability to create empty expressions like this.
 
     middleName == ''
-    
 
 The inside part `[^&',]` introduces a new character, the caret `^`. It is used inside the square bracket grouping to indicate that the characters in the grouping are *not* allowed.
 
@@ -95,7 +86,6 @@ If you put all those rules together, they look like this.
     name = [_a-zA-Z]+[_a-zA-Z0-9]*
     expression = name comparator value
     expression-list = expression (, expression)*
-    
 
 ## (Interlude) Set Up
 
@@ -105,7 +95,6 @@ First, let's set up some boilerplate code to compile, run, and test this. We nee
 
     ~/BunnyParser $ ls
     App.scala BunnyParser.scala classes/ compile-and-run.sh
-    
 
 Here is our main Scala object
 
@@ -115,7 +104,6 @@ Here is our main Scala object
         println(BunnyParser.parse("Hello World!"))
       }
     }
-    
 
 Here is the parser. For now, it just uses a single grammar expression that matches everything (`matchesEverything = .*`).
 
@@ -131,14 +119,12 @@ Here is the parser. For now, it just uses a single grammar expression that match
         parseAll(matchesEverything, new CharSequenceReader(s))
       }
     }
-    
 
 And a simple script to compile and run the code.
 
     #!/bin/bash
     # compile-and-run.sh
     scalac -d classes *.scala && scala -cp classes App
-    
 
 You can download a this starting setup here.
 
@@ -146,7 +132,6 @@ Once you have it ready, just do `chmod u+x compile-and-run.sh`, and then compile
 
     ~/BunnyParser $ ./compile-and-run.sh
     [1.13] parsed: Hello World!    
-    
 
 That just took the string "Hello World!" and interpreted it with the extremely simple catch-all grammar. Now it's time to swap in our own grammar.
 
@@ -159,7 +144,6 @@ Here is the summarized grammar specification that we created earlier.
     name = [_a-zA-Z]+[_a-zA-Z0-9]*
     expression = name comparator value
     expression-list = expression (, expression)*
-    
 
 Let's take each grammar rule and translate it into a valid RegexParser expression in our BunnyParser.
 
@@ -171,7 +155,6 @@ There are three possible comparators. We could just refer to them directly by th
     def contains = "~"
     def equals = "=="
     def comparator = lessthan | contains | equals
-    
 
 Now if we ever want to amend this specification to include synonyms for the comparators, we could do it by just changing these definitions.
 
@@ -179,7 +162,6 @@ Now if we ever want to amend this specification to include synonyms for the comp
     def contains = "~" | "ct"
     def equals = "==" | "eq"
     def comparator = lessthan | contains | equals
-    
 
 ### Value
 
@@ -190,21 +172,18 @@ Using this information, we can now define our `value` grammar.
     def quotedValue = """'[^'&,]*'""".r
     def unquotedValue = """[^&',]+""".r
     def value = unquotedValue | quotedValue
-    
 
 ### Name
 
 `name` can be compiled similarly.
 
     def name = """[_a-zA-Z]+[_a-zA-Z0-9]*""".r
-    
 
 ### Expression
 
 An `expression` is a combination of `name`, `comparator`, and `value`. These can be [sequenced][2] using the `~` character - not to be confused with the character we are defining in our grammar to mean "contains".
 
     def expression = name ~ comparator ~ value
-    
 
 ### Expression List
 
@@ -212,7 +191,6 @@ In order to keep the rules of our grammar easy to read, we will split the expres
 
     def expressionTail = "," ~ expression
     def expressionList = expression ~ (expressionTail*)
-    
 
 ### Try It
 
@@ -243,7 +221,6 @@ Here is our complete parser, with the `parse` method updated to take our newly m
         parseAll(expressionList, new CharSequenceReader(s))
       }
     }
-    
 
 Then we can test our parser with some expressions like this.
 
@@ -252,13 +229,11 @@ Then we can test our parser with some expressions like this.
         println(BunnyParser.parse("age < 3, name ~ 'c', color == brown"))
       }
     }
-    
 
 Run it and everything looks great!
 
     $ ./compile-and-run.sh 
     [1.28] parsed: (((age~<)~3)~List((,~((name~~)~'c')), (,~((color~==)~brown))))
-    
 
 ## Abstract Syntax Tree (AST)
 
@@ -278,7 +253,6 @@ Parsing a string into a grammar is useless without actually doing something with
          ~        ==
           \        \
            'c'      brown
-    
 
 In order to intelligently interpret this data, we might want to associate some types to the parts of the tree.
 
@@ -296,7 +270,6 @@ In order to intelligently interpret this data, we might want to associate some t
          ~        == (Comparator)
           \        \
            'c'      brown (Value)
-    
 
 In addition, we would really like the hierarchy of the objects to better match the hierarchy of the domain.
 
@@ -311,7 +284,6 @@ In addition, we would really like the hierarchy of the objects to better match t
     Name Comp Val    Name Comp Val    Name Comp Val
      |    |    |      |    |    |      |    |    |
     age   <    3     name  ~   'c'   color  ==  brown
-    
 
 Our grammar was driven by the design of the language, but we need another structure driven by the semantic meaning of the symbols. This is called an Abstract Syntax Tree, or AST.
 
@@ -330,7 +302,6 @@ We can model the AST exactly off of the above diagram. Let's create a new file `
     case class Value(value: String)
     case class Expression(name: Name, comparator: Comparator, value: Value)
     case class Filter(expressions: List[Expression])
-    
 
 Now that we have defined the AST, we need to modify our grammar to create an instance of it when we interpret a string. Before, all of our grammar definitions actually returned a `Parser` object by default. We want them to instead return the appropriate object from our AST.
 
@@ -355,7 +326,6 @@ This is done using the `^^` and `^^^` operators. The double caret `^^` can be us
     
       def expressionTail = "," ~ expression ^^ { case _ ~ e => e }
       def expressionList = expression ~ (expressionTail*) ^^ { case e ~ l => e :: l }
-    
 
 Finally, to verify that our AST was created correctly, we add `toString` methods to our AST. Once we have parsed the AST, we can just print it out to see if it matches our expectations.
 
@@ -373,13 +343,11 @@ Finally, to verify that our AST was created correctly, we add `toString` methods
     case class Filter(expressions: List[Expression]) {
         override def toString = expressions.mkString(", ")
     }
-    
 
 Compile and run, and voila! We have now created an AST representing the query we started with.
 
     $ ./compile-and-run.sh 
     [1.36] parsed: List(age LessThan 3, name Contains c, color Equal brown)
-    
 
 At this point, how you use the AST will be dependent on your situation, but you now have a fully typed and instantiated structure that represents a query that originally existed just as a stream of characters. Traverse it with whatever tree-traversal algorithm is appropriate and apply it to your data query.
 

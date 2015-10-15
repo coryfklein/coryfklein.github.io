@@ -23,9 +23,7 @@ I was saved by Jenkins because a previous build contained a reference the SHA th
 
 Once you find the SHA, place it in the URL to your GitHub repository like this:
 
-```
-https://github.com/coryfklein/myrepo/commit/<SHA_HERE>
-```
+    https://github.com/coryfklein/myrepo/commit/<SHA_HERE>
 
 And voila! You have a link to your lost work.
 
@@ -35,9 +33,7 @@ You can click on "parent" links to open any other related commits you may have l
 
 For each commit you can get a patch file by appending `.patch` to the above URL like so:
 
-```
-https://github.com/coryfklein/myrepo/commit/<SHA_HERE>.patch
-```
+    https://github.com/coryfklein/myrepo/commit/<SHA_HERE>.patch
 
 Save this file to disk, repeating as necessary for each commit you need to recover.
 
@@ -45,21 +41,15 @@ Save this file to disk, repeating as necessary for each commit you need to recov
 
 Use `git am` to apply your patch files to your repository.
 
-```
-git am 001-work.patch 002-work.patch 003-work.patch
-```
+    git am 001-work.patch 002-work.patch 003-work.patch
 
 ## 4. Save Your Work
 
 When you're ready, push your recovered work to master:
 
-```
-git push
-```
+    git push
 
 Otherwise, save your work to a branch and push that to the server so it is saved both locally and remotely:
 
-```
-git co -b my-saved-work
-git push --set-upstream origin my-saved-work
-```
+    git co -b my-saved-work
+    git push --set-upstream origin my-saved-work
