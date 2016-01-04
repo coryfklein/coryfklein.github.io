@@ -44,7 +44,7 @@ This process is enabled by default on most operating systems, and thus dead TCP 
 
 Since the process doesn't start until a connection has been idle for two hours by default, stale TCP connections can linger for a very long time before being pruned. This can be especially harmful for expensive connections such as database connections.
 
-### TCP is Optional
+### Keep-Alive is Optional
 
 According to [RFC 1122 4.2.3.6](http://www.freesoft.org/CIE/RFC/1122/114.htm), responding to and/or relaying TCP Keep-Alive packets *is optional*:
 
