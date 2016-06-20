@@ -6,6 +6,8 @@ comments: true
 ---
 This morning I discovered some [rather anomalous 1-star reviews on Amazon for the Apple iPhone 6s 128 GB](https://www.amazon.com/Apple-iPhone-Warranty-Unlocked-Cellphone/product-reviews/B015E8UKNE/ref=cm_cr_dp_qt_hist_one?ie=UTF8&filterByStar=one_star&showViewpoints=0). About 17% of the reviews for that product are 1-star reviews, and many of those are claims (with picture evidence!) that the seller shipped them an iPhone box full of clay, or some other odd object.
 
+![fraudulent iPhone review]({{ site.url }}/assets/iphone-scam.png)
+
 My first response was confusion. Occasionally here and there a seller might try to ship a box of clay and pocket the $1k purchase, but this strategy never pans out because Amazon has very strong buyer protection policies that means that sellers can't just walk away with the money. So why would a seller keep trying this strategy such that this many reviews got posted?
 
 That's when it clicked: there are no seller scammers here - it's the buyers that are the scammers.
