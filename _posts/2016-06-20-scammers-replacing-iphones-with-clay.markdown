@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Scammers Replacing iPhones With Clay"
+title:  "Scammers Game Amazon A-Z Policy By Replacing iPhones With Clay"
 date:   2016-06-20 10:56:32
 comments: true
 ---
