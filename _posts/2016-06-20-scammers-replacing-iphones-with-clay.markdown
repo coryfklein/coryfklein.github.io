@@ -23,7 +23,7 @@ Let me explain:
 
 This works because Amazon heavily favors customers in their A-Z Guarantee claim process, and sellers don't tend to record video evidence when shipping expensive merchandise (which they should).
 
-The scammer incurs very little risk. If they win 1 in 10 claims, they pocket $1k. For the remaining 9 claims, they can just resell the phone themselves and the only costs they incur are shipping, which is more than covered by the free iPhones they get. Since they create a new account every time (which is evidenced by viewing the buyer profiles of the individuals posting the fraudulent reviews), it is difficult for Amazon to distinguish legitimate claims from fraudelent ones.
+The scammer incurs very little risk. If they win 1 in 10 claims, they pocket $1k. For the remaining 9 claims, they can just resell the phone themselves and the only costs they incur are shipping, which is more than covered by the free iPhones they get. Since they create a new account every time (which is evidenced by viewing the buyer profiles of the individuals posting the fraudulent reviews), it is difficult for Amazon to distinguish legitimate claims from fraudulent ones.
 
 Meanwhile, the product page is flooded with fraudelent reviews, poisoning the well and moving future customers away from Amazon and towards trusted Apple retailers. Amazon and customers lose, but Apple possibly gets more customers.
 
