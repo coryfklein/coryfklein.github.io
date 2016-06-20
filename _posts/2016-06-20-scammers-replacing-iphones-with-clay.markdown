@@ -21,7 +21,7 @@ Let me explain:
 5. Scammer posts a review with pictures showing evidence that no iPhone was shipped, and opens a A-Z Guarantee claim against the seller.
 6. If the seller was relying on the UPS/FedEx weight record to verify shipment (which most do) and has no other proof that they actually shipped the iPhone, then Amazon may resolve the case in favor of the scammer, refunding their purchase and allowing them to keep the (now stolen) iPhone.
 
-This works because Amazon heavily favors customers in their A-Z Guarantee claim process, and buyers don't tend to record video evidence when shipping expensive merchandise (which they should).
+This works because Amazon heavily favors customers in their A-Z Guarantee claim process, and sellers don't tend to record video evidence when shipping expensive merchandise (which they should).
 
 The scammer incurs very little risk. If they win 1 in 10 claims, they pocket $1k. For the remaining 9 claims, they can just resell the phone themselves and the only costs they incur are shipping, which is more than covered by the free iPhones they get. Since they create a new account every time (which is evidenced by viewing the buyer profiles of the individuals posting the fraudulent reviews), it is difficult for Amazon to distinguish legitimate claims from fraudelent ones.
 
