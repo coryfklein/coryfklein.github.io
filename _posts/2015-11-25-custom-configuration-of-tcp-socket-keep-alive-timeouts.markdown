@@ -36,7 +36,7 @@ The process works like this:
         3. If no response has been received at this point, send a `RST` and terminate the connection.
     * **Yes**: Return to step 2
 
-This process is enabled by default on most operating systems, and thus dead TCP connections are regularly pruned once the other end has been responsive for 2 hours 11 minutes (7200 seconds + 75 * 9 seconds).
+This process is enabled by default on most operating systems, and thus dead TCP connections are regularly pruned once the other end has been non-responsive for 2 hours 11 minutes (7200 seconds + 75 * 9 seconds).
 
 ## Gotchas
 
