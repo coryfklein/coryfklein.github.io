@@ -6,7 +6,7 @@ comments: true
 categories: git
 ---
 
-Have you done a `git push --force` and overwritten some work that you don't have backed up anywhere else? I just experienced this today but I was able to recover my work. My code was hosted on Github.com but [let me know](mailto:cory@coryklein.com) if you are able to apply these instructions to a regular Git repository without Github and I'll update this post.
+Have you done a `git push --force` and overwritten some work that you don't have backed up anywhere else? I just experienced this today but I was able to recover my work.
 
 Fortunately, `git` is pretty good about not throwing away anything, so it is possible your work still exists on the server.
 
