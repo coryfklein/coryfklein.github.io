@@ -13,7 +13,7 @@ If this sounds interesting to you, then continue reading. The minimum buy-in for
 
 ## This Order's Supplier
 
-I have selected [HBI](http://www.orchidflask.com/mainpage/orchidflaskscatalog.html#cat), a one-man Orchid flask producer based in Delray Beach, FL and run by Mick Fournier, as the supplier for this order. I've talked with Mick on the phone and he will be shipping the flasks out here to Utah for us.
+I have selected [HBI](http://www.orchidflask.com/mainpage/orchidflaskscatalog.html#cat), a one-man Orchid flask producer based in Delray Beach, FL run by Mick Fournier, as the supplier for this order. I've talked with Mick on the phone and he will be shipping the flasks out here to Utah for us.
 
 ## Schedule
 
@@ -29,7 +29,7 @@ In order to encourage maximum participation and enjoyment, I have decided to mak
 
 All orchids will come in a simple container, bundled in moist sphagnum moss. The orchids in the flasks will arrive in a variety of sizes and stages of growth, but all will be very young. In order to be fair to all contributors, you may receive some that are smaller and some that are larger. I will strive to be completely fair and not give preferential treatment to any, even regardless of your order contribution.
 
-In the tiers below I list quantities in the form "6-10+". Because there are no guarantees as to how many specimens arrive in a flask, I cannot promise ahead of time exactly how many orchids you will receive. What I can promise is:
+In the tiers below I list quantities in the form "5-8+". Because there are no guarantees as to how many specimens arrive in a flask, I cannot promise ahead of time exactly how many orchids you will receive. What I can promise is:
 
 * You will not receive fewer than the minimum stated
 * I will divide the total number of orchids evenly based on your contribution to the order - so any extra orchids I receive beyond the minimum will be divided evenly. I will not be unfairly keeping the extras for myself.
@@ -40,6 +40,8 @@ What you get:
 
 * 3-5+ baby orchids from at least 2 species
 * Regular text updates on the order
+
+Send payment via Venmo to @Cory-Klein-1 or use one of the buttons below.
 
 <div id="paypal-button-container"></div>
 <script src="https://www.paypal.com/sdk/js?client-id=AXE2bnuSxm1-645jQAvD7fGJ8lRTAWaf8tjpOP1z5qoXD6PfXtYsD7sh2IxS9BrWr-QemA2Ezaqqw2H5&currency=USD" data-sdk-integration-source="button-factory"></script>
@@ -77,6 +79,8 @@ What you get:
 * Regular text updates on the order
 * You may choose 1 sub-$40 species from [the catalog](http://www.orchidflask.com/mainpage/orchidflaskscatalog.html#phal) and I will guarantee it gets on the order
 
+Send payment via Venmo to @Cory-Klein-1 or use one of the buttons below.
+
 <div id="paypal-button-container"></div>
 <script src="https://www.paypal.com/sdk/js?client-id=AXE2bnuSxm1-645jQAvD7fGJ8lRTAWaf8tjpOP1z5qoXD6PfXtYsD7sh2IxS9BrWr-QemA2Ezaqqw2H5&currency=USD" data-sdk-integration-source="button-factory"></script>
 <script>
@@ -111,6 +115,8 @@ What you get:
 * Regular text updates on the order
 * You may choose 1 sub-$65 species from [the catalog](http://www.orchidflask.com/mainpage/orchidflaskscatalog.html#phal) and I will guarantee it gets on the order
 
+Send payment via Venmo to @Cory-Klein-1 or use one of the buttons below.
+
 <div id="paypal-button-container"></div>
 <script src="https://www.paypal.com/sdk/js?client-id=AXE2bnuSxm1-645jQAvD7fGJ8lRTAWaf8tjpOP1z5qoXD6PfXtYsD7sh2IxS9BrWr-QemA2Ezaqqw2H5&currency=USD" data-sdk-integration-source="button-factory"></script>
 <script>
@@ -143,7 +149,9 @@ What you get:
 
 * 11-14+ baby orchids from at least 8 species, including at least 1 Ghost or Neofinetia falcata orchid\*
 * Regular text updates on the order
-* You may choose 1 species from [the catalog](http://www.orchidflask.com/mainpage/orchidflaskscatalog.html#phal) and I will guarantee it gets on the order
+* You may choose 2 species from [the catalog](http://www.orchidflask.com/mainpage/orchidflaskscatalog.html#phal) and I will guarantee it gets on the order
+
+Send payment via Venmo to @Cory-Klein-1 or use one of the buttons below.
 
 <div id="paypal-button-container"></div>
 <script src="https://www.paypal.com/sdk/js?client-id=AXE2bnuSxm1-645jQAvD7fGJ8lRTAWaf8tjpOP1z5qoXD6PfXtYsD7sh2IxS9BrWr-QemA2Ezaqqw2H5&currency=USD" data-sdk-integration-source="button-factory"></script>
@@ -175,7 +183,7 @@ What you get:
 
 ### Contributions >$100
 
-For contributions greater than $100 I will essentially follow the progression above. Send payment via Venmo to @Cory-Klein-1.
+For contributions greater than $100 I will essentially scale your benefit accordingly. Send payment via Venmo to @Cory-Klein-1.
 
 ### \*Species Disclaimer
 
@@ -183,19 +191,19 @@ In the unlikely event we have very few contributors then I will be unable to ord
 
 ## Species Preference Survey
 
-Once you have contributed to the order I will send you a link to a species preference survey. This will allow you 
+Once contributions close on February 15 I will send out a survey explaining which varieties will go on the order and, more importantly, giving you an opportunity to rank your preference. I will do my best to make sure you given your top choices, but the larger your order the more likely you'll get everything you're looking for.
 
 ## Orchid Care
 
-Most of the orchids we order will not be your typical phalaenopsis and may require special care specific to their species. Please research the species that make it on the order! Part of the fun will be learning to raise and cultivate new orchid species. I hope I will be able to successfully raise all my orchids, but part of the fun is that if you fail on some here or there it's not a large loss since the investment is much smaller than for an expensive fully grown specimen. If you're a beginner, don't be afraid; just have fun and if something dies consider it an affordable learning experience and try again on the next group order!
+Most of the orchids we order will not be your typical hardy phalaenopsis and may require special care specific to their species. Please research the species that make it on the order! Part of the fun will be learning to raise and cultivate new varieties. I hope I personally will be able to successfully raise all my orchids to maturity, but part of the fun is that if you fail on some here or there it's not a large loss since the investment is much smaller than for an expensive fully grown specimen. If you're a beginner, don't be afraid; just have fun and if something dies consider it an affordable learning experience and try again on the next group order!
 
 And as a reminder; these orchids are babies! They will be very small and you are unlikely to see them bloom for 3-5 years.
 
 ## FAQ
 
-### Why isn't the orchid count on the $50 tier double that of the $25 tier?
+### Why don't orchid counts scale proportionately with the tier contribution?
 
-Not all of the orchids on the order will be priced the same. For example, the Cattlya amethystoglossa are only $30 for a 10-plant flask, while the C lueddemanniana var coerulea are $45 a flask, and the Neofinetia falcata are $55-90 a flask. The more you contribute to the order, the greater access you are purchasing to the more expensive varieties. However, if you prefer volume over variety then please let me know. Depending on what goes into the order I _may_ be able to give you more orchids if you are OK only receiving the more affordable varieties.
+Not all of the orchids that make it on the order will be priced the same. For example, the Cattlya amethystoglossa are only $30 for a 10-plant flask, while the C lueddemanniana var coerulea are $45 a flask, and the Neofinetia falcata are $55-90 a flask. The more you contribute to the order, the greater access you are purchasing to the more expensive varieties. However, if you prefer volume over variety then please let me know. Depending on what goes into the order I _may_ be able to give you more orchids if you are OK only receiving the more affordable varieties.
 
 ### Can I get my money back?
 
@@ -203,17 +211,17 @@ Unfortunately, no. All sales are final. I cannot guarantee the quantity or quali
 
 ### What supplies should I get?
 
-I'm sorry, but I cannot provide any advice or guidance on orchid care in this forum.
+I'm sorry, but I cannot provide any advice or guidance on orchid supplies or care in this forum.
 
 ### How much money are you making from this?
 
-If things go the way I plan, none. All the work of putting together the order and dividing the orchids I am doing on a volunteer unpaid basis. My motivation for organizing this group buy comes mostly from my own desire to expand my personal orchid collection and learn more about orchids, but also it seemed a simple and low-effort way I could make others happy as well.
+If things go the way I plan, none. All the work of putting together the order and dividing the orchids I am doing on an unpaid volunteer basis, which means we all get more orchids! That's the whole point. My motivation for organizing this group buy comes mostly from my own desire to expand my personal orchid collection and learn more about orchids, but also it seemed a simple and low-effort way that I could bring joy to others as well.
 
-That said, I will need to put a small portion of the total order cost towards the sphagnum moss and containers. However the goal isn't to sell flower pots or planting medium here, so I will only spend the minimum necessary to allow you to safely transport your orchids home, I expect less than $20 total.
+That said, I will need to put a small portion of the total order cost towards the sphagnum moss and containers. However the goal isn't to sell flower pots or planting medium here, so I will only spend the minimum necessary to allow you to safely transport your orchids home, I expect less than $20 total. The amount available for me to place on the order may also be slightly less than what was contributed due to various fees that payment processors may charge.
 
 ### What will the orchids look like? Which orchids will be on the order?
 
-You can see the orchid candidates on [the catalog](http://www.orchidflask.com/mainpage/orchidflaskscatalog.html#phal). Until we know how many total contributions are made we won't know exactly which varieties will be ordered, but I hope we can get a wide variety of the options available.
+You can see the orchid candidates on [the catalog](http://www.orchidflask.com/mainpage/orchidflaskscatalog.html#phal). Until we know how many total contributions are made we won't know exactly which varieties will make it on the order, but I hope we can get a wide variety of the options available.
 
 ### When will I get my orchids?
 
