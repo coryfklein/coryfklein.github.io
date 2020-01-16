@@ -43,7 +43,7 @@ What you get:
 
 Send payment via Venmo to @Cory-Klein-1 or use one of the buttons below.
 
-<div id="paypal-button-container"></div>
+<div id="paypal-button-container-1"></div>
 <script src="https://www.paypal.com/sdk/js?client-id=AXE2bnuSxm1-645jQAvD7fGJ8lRTAWaf8tjpOP1z5qoXD6PfXtYsD7sh2IxS9BrWr-QemA2Ezaqqw2H5&currency=USD" data-sdk-integration-source="button-factory"></script>
 <script>
     paypal.Buttons({
@@ -68,7 +68,7 @@ Send payment via Venmo to @Cory-Klein-1 or use one of the buttons below.
                 alert('Transaction completed by ' + details.payer.name.given_name + '!');
             });
         }
-    }).render('#paypal-button-container');
+    }).render('#paypal-button-container-1');
 </script>
 
 ### $50 Tier
@@ -81,7 +81,7 @@ What you get:
 
 Send payment via Venmo to @Cory-Klein-1 or use one of the buttons below.
 
-<div id="paypal-button-container"></div>
+<div id="paypal-button-container-2"></div>
 <script src="https://www.paypal.com/sdk/js?client-id=AXE2bnuSxm1-645jQAvD7fGJ8lRTAWaf8tjpOP1z5qoXD6PfXtYsD7sh2IxS9BrWr-QemA2Ezaqqw2H5&currency=USD" data-sdk-integration-source="button-factory"></script>
 <script>
     paypal.Buttons({
@@ -106,7 +106,7 @@ Send payment via Venmo to @Cory-Klein-1 or use one of the buttons below.
                 alert('Transaction completed by ' + details.payer.name.given_name + '!');
             });
         }
-    }).render('#paypal-button-container');
+    }).render('#paypal-button-container-2');
 </script>
 
 ### $75 Tier
@@ -117,7 +117,7 @@ Send payment via Venmo to @Cory-Klein-1 or use one of the buttons below.
 
 Send payment via Venmo to @Cory-Klein-1 or use one of the buttons below.
 
-<div id="paypal-button-container"></div>
+<div id="paypal-button-container-3"></div>
 <script src="https://www.paypal.com/sdk/js?client-id=AXE2bnuSxm1-645jQAvD7fGJ8lRTAWaf8tjpOP1z5qoXD6PfXtYsD7sh2IxS9BrWr-QemA2Ezaqqw2H5&currency=USD" data-sdk-integration-source="button-factory"></script>
 <script>
     paypal.Buttons({
@@ -142,7 +142,7 @@ Send payment via Venmo to @Cory-Klein-1 or use one of the buttons below.
                 alert('Transaction completed by ' + details.payer.name.given_name + '!');
             });
         }
-    }).render('#paypal-button-container');
+    }).render('#paypal-button-container-3');
 </script>
 
 ### $100 Tier
@@ -153,7 +153,7 @@ Send payment via Venmo to @Cory-Klein-1 or use one of the buttons below.
 
 Send payment via Venmo to @Cory-Klein-1 or use one of the buttons below.
 
-<div id="paypal-button-container"></div>
+<div id="paypal-button-container-4"></div>
 <script src="https://www.paypal.com/sdk/js?client-id=AXE2bnuSxm1-645jQAvD7fGJ8lRTAWaf8tjpOP1z5qoXD6PfXtYsD7sh2IxS9BrWr-QemA2Ezaqqw2H5&currency=USD" data-sdk-integration-source="button-factory"></script>
 <script>
     paypal.Buttons({
@@ -178,7 +178,7 @@ Send payment via Venmo to @Cory-Klein-1 or use one of the buttons below.
                 alert('Transaction completed by ' + details.payer.name.given_name + '!');
             });
         }
-    }).render('#paypal-button-container');
+    }).render('#paypal-button-container-4');
 </script>
 
 ### Contributions >$100
