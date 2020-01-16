@@ -19,20 +19,22 @@ I have selected [HBI](http://www.orchidflask.com/mainpage/orchidflaskscatalog.ht
 
 January 16, 2020: I begin accepting order contributions
 
+By Late January: I send out orchid variety preference surveys
+
 February 15, 2020: Contributions close and I put together the order and send it off to HBI
 
-Late February - Mid March: The order arrives via USPS at my home in Pleasant Grove. I will divide the flasks into each individual contributor's allotments and notify everyone when they are ready. Unless you arrange otherwise, you will have 3 days to come by my home and pick up your orchids.
+Late February - Early March: The shipment arrives via USPS at my home in Pleasant Grove. I will divide the flasks into each individual contributor's allotments and notify everyone when they are ready. Unless you arrange otherwise, you will have 3 days to come by my home and pick up your orchids.
 
-## Pricing
+## How It Works
 
 In order to encourage maximum participation and enjoyment, I have decided to make the minimum buy-in for this order just $25. The more folks that participate, the greater variety of orchid species we will be able to order. The more you contribute, the greater quantity and variety of orchids you will receive.
 
-All orchids will come in a simple container, bundled in moist sphagnum moss. The orchids in the flasks will arrive in a variety of sizes and stages of growth, but all will be very young. In order to be fair to all contributors, you may receive some that are smaller and some that are larger. I will strive to be completely fair and not give preferential treatment to any, even regardless of your order contribution.
+Your orchids will come in a simple container, bundled in moist sphagnum moss. The orchids in the flasks will vary in size, but all will be very young. In order to be fair to all contributors, you may receive some that are smaller and some that are larger.
 
-In the tiers below I list quantities in the form "5-8+". Because there are no guarantees as to how many specimens arrive in a flask, I cannot promise ahead of time exactly how many orchids you will receive. What I can promise is:
+In the tiers below I list quantities in the form "5-8+". Because there are no guarantees as to exactly how many healthy specimens arrive in a flask, I cannot promise ahead of time exactly how many orchids you will receive. What I can promise is:
 
 * You will not receive fewer than the minimum stated
-* I will divide the total number of orchids evenly based on your contribution to the order - so any extra orchids I receive beyond the minimum will be divided evenly. I will not be unfairly keeping the extras for myself.
+* I will divide the total number of orchids evenly based on your contribution to the order - so any extra orchids I receive will be divided evenly. I will not be be keeping any for myself beyond what is allotted me based on my own monetary contribution to the order.
 
 ### $25 Tier
 
@@ -109,7 +111,7 @@ Send payment via Venmo to @Cory-Klein-1 or use one of the buttons below.
 
 For contributions greater than $100 I will essentially scale your benefit accordingly. Send payment via Venmo to @Cory-Klein-1.
 
-### \*Species Disclaimer
+### \*Varieties Disclaimer
 
 In the unlikely event we have very few contributors then I will be unable to order the more expensive orchid varieties or guarantee greater than 4 different orchid species. If you want to help ensure this does not happen, share this page with any family or friends that you think may want to participate in the order!
 
@@ -139,13 +141,13 @@ I'm sorry, but I cannot provide any advice or guidance on orchid supplies or car
 
 ### How much money are you making from this?
 
-If things go the way I plan, none. All the work of putting together the order and dividing the orchids I am doing on an unpaid volunteer basis, which means we all get more orchids! That's the whole point. My motivation for organizing this group buy comes mostly from my own desire to expand my personal orchid collection and learn more about orchids, but also it seemed a simple and low-effort way that I could bring joy to others as well.
+If things according to plan I will make absolutely no profit from this endeavor. All the work of putting together the order and dividing the orchids I am doing on an unpaid volunteer basis, which means we all get more orchids! That's the whole point. My motivation for organizing this group buy comes mostly from my own desire to expand my personal orchid collection and learn more about orchids, but also it seemed a simple and low-effort way that I could bring joy to others as well.
 
 That said, I will need to put a small portion of the total order cost towards the sphagnum moss and containers. However the goal isn't to sell flower pots or planting medium here, so I will only spend the minimum necessary to allow you to safely transport your orchids home, I expect less than $20 total. The amount available for me to place on the order may also be slightly less than what was contributed due to various fees that payment processors may charge.
 
 ### What will the orchids look like? Which orchids will be on the order?
 
-You can see the orchid candidates on [the catalog](http://www.orchidflask.com/mainpage/orchidflaskscatalog.html#phal). Until we know how many total contributions are made we won't know exactly which varieties will make it on the order, but I hope we can get a wide variety of the options available.
+You can see the orchid candidates on [the catalog](http://www.orchidflask.com/mainpage/orchidflaskscatalog.html#phal). Until we know how many total contributions are made and how participants rank their preferences, we won't know exactly which varieties will make it on the order. But I hope we can get a wide variety of the options available.
 
 ### When will I get my orchids?
 
@@ -154,3 +156,15 @@ Most likely the end of February, but it will depend on how long it takes HBI to 
 ### Where can I pick up my orchids?
 
 At my home in Pleasant Grove. I'm not posting my home address here, but I will send it out to each individual directly once the orders close.
+
+### How can I help?
+
+I do not need any assistance at this time, but if the order ends up gigantically huge I may solicit volunteers for help in dividing up the orchids in the shipment.
+
+### Who are you?
+
+My name is Cory Klein. I am a long-time Utah resident, avid gardener, and a programmer by trade. I am married and have 3 young boys.
+
+### How can I contact you?
+
+For general questions, please leave them in the comment form below. If you contribute to the order you will receive my phone number, email address, and home street address.
