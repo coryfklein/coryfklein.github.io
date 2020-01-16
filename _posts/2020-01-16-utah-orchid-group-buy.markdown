@@ -5,9 +5,13 @@ date:   2019-01-16 13:12:11
 comments: true
 ---
 
+![sample orchids]({{ site.url }}/assets/one.jpg)
+
 Do you want to expand your orchid collection on a budget? Maybe grow something that is _not_ a phalaenopsis? Join this spring's Utah Orchid Flask Group Buy.
 
 Orchid growers sell tiny baby orchids in bulk by the "flask" for $30-400 each. If we buy several of these flasks together then we can share the cost of purchase and split each flask out amongst ourselves to get a variety of species.
+
+![flask]({{ site.url }}/assets/flask.jpg)
 
 If this sounds interesting to you, then continue reading. The minimum buy-in for this order is just $25 and guarantees you 3-5 baby orchids from 2+ separate species. The more you pay, the more you get. The more folks that join, the greater variety of species we'll be able to order.
 
@@ -30,6 +34,8 @@ Late February - Early March: The shipment arrives via USPS at my home in Pleasan
 In order to encourage maximum participation and enjoyment, I have decided to make the minimum buy-in for this order just $25. The more folks that participate, the greater variety of orchid species we will be able to order. The more you contribute, the greater quantity and variety of orchids you will receive.
 
 Your orchids will come in a simple container, bundled in moist sphagnum moss. The orchids in the flasks will vary in size, but all will be very young. In order to be fair to all contributors, you may receive some that are smaller and some that are larger.
+
+![sample orchids]({{ site.url }}/assets/two.jpg)
 
 In the tiers below I list quantities in the form "5-8+". Because there are no guarantees as to exactly how many healthy specimens arrive in a flask, I cannot promise ahead of time exactly how many orchids you will receive. What I can promise is:
 
@@ -118,6 +124,8 @@ In the unlikely event we have very few contributors then I will be unable to ord
 ## Species Preference Survey
 
 Once contributions close on February 15 I will send out a survey explaining which varieties will go on the order and, more importantly, giving you an opportunity to rank your preference. I will do my best to make sure you given your top choices, but the larger your order the more likely you'll get everything you're looking for.
+
+![sample orchids]({{ site.url }}/assets/three.jpg)
 
 ## Orchid Care
 
