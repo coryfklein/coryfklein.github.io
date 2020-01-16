@@ -78,29 +78,31 @@ Send payment via Venmo to @Cory-Klein-1 or use one of the buttons below.
 <div id="paypal-button-container-4"></div>
 <script src="https://www.paypal.com/sdk/js?client-id=AXE2bnuSxm1-645jQAvD7fGJ8lRTAWaf8tjpOP1z5qoXD6PfXtYsD7sh2IxS9BrWr-QemA2Ezaqqw2H5&currency=USD" data-sdk-integration-source="button-factory"></script>
 <script>
-    paypal.Buttons({
-        style: {
-            shape: 'rect',
-            color: 'gold',
-            layout: 'vertical',
-            label: 'paypal',
-            
-        },
-        createOrder: function(data, actions) {
-            return actions.order.create({
-                purchase_units: [{
-                    amount: {
-                        value: '100'
-                    }
-                }]
-            });
-        },
-        onApprove: function(data, actions) {
-            return actions.order.capture().then(function(details) {
-                alert('Transaction completed by ' + details.payer.name.given_name + '!');
-            });
-        }
-    }).render('#paypal-button-container-1').render('#paypal-button-container-2').render('#paypal-button-container-3').render('#paypal-button-container-4');
+    [ { id: '1', price: '25' }, { id: '2', price: '50' }, { id: '3', price: '75' }, { id: '4', price: '100' } ].forEarch(function(o) {
+      paypal.Buttons({
+          style: {
+              shape: 'rect',
+              color: 'gold',
+              layout: 'vertical',
+              label: 'paypal',
+              
+          },
+          createOrder: function(data, actions) {
+              return actions.order.create({
+                  purchase_units: [{
+                      amount: {
+                          value: o.price
+                      }
+                  }]
+              });
+          },
+          onApprove: function(data, actions) {
+              return actions.order.capture().then(function(details) {
+                  alert('Transaction completed by ' + details.payer.name.given_name + '!');
+              });
+          }
+      }).render('#paypal-button-container-' + o.id);
+    });
 </script>
 
 ### Contributions >$100
