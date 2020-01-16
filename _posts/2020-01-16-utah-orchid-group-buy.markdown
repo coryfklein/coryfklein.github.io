@@ -38,7 +38,7 @@ In the tiers below I list quantities in the form "5-8+". Because there are no gu
 
 What you get:
 
-* 3-5+ baby orchids from at least 2 species
+* 3-5+ labelled baby orchids from at least 2 species
 * Regular text updates on the order
 
 Send payment via Venmo to @Cory-Klein-1 or use one of the buttons below.
@@ -75,7 +75,7 @@ Send payment via Venmo to @Cory-Klein-1 or use one of the buttons below.
 
 What you get:
 
-* 5-8+ baby orchids from at least 4 species
+* 5-8+ labelled baby orchids from at least 4 species
 * Regular text updates on the order
 * You may choose 1 sub-$40 species from [the catalog](http://www.orchidflask.com/mainpage/orchidflaskscatalog.html#phal) and I will guarantee it gets on the order
 
@@ -111,7 +111,7 @@ Send payment via Venmo to @Cory-Klein-1 or use one of the buttons below.
 
 ### $75 Tier
 
-* 8-12+ baby orchids from at least 6 species, including at least 1 Ghost or Neofinetia falcata orchid\*
+* 8-12+ labelled baby orchids from at least 6 species, including at least 1 Ghost or Neofinetia falcata orchid\*
 * Regular text updates on the order
 * You may choose 1 sub-$65 species from [the catalog](http://www.orchidflask.com/mainpage/orchidflaskscatalog.html#phal) and I will guarantee it gets on the order
 
@@ -147,7 +147,7 @@ Send payment via Venmo to @Cory-Klein-1 or use one of the buttons below.
 
 ### $100 Tier
 
-* 11-14+ baby orchids from at least 8 species, including at least 1 Ghost or Neofinetia falcata orchid\*
+* 11-14+ labelled baby orchids from at least 8 species, including at least 1 Ghost or Neofinetia falcata orchid\*
 * Regular text updates on the order
 * You may choose 2 species from [the catalog](http://www.orchidflask.com/mainpage/orchidflaskscatalog.html#phal) and I will guarantee it gets on the order
 
