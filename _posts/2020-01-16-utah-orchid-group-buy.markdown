@@ -42,6 +42,30 @@ In the tiers below I list quantities in the form "5-8+". Because there are no gu
 * You will not receive fewer than the minimum stated
 * I will divide the total number of orchids evenly based on your contribution to the order - so any extra orchids I receive will be divided evenly. I will not be be keeping any for myself beyond what is allotted me based on my own monetary contribution to the order.
 
+### Can't Decide?
+
+Join the mailing list and I'll send you a reminder before contributions close.
+
+<!-- Begin Mailchimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup">
+<form action="https://coryklein.us4.list-manage.com/subscribe/post?u=8dc5790004c2dfa82c7f281df&amp;id=a26ea42e04" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+	<label for="mce-EMAIL">Subscribe for updates</label>
+	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_8dc5790004c2dfa82c7f281df_a26ea42e04" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
+<!--End mc_embed_signup-->
+
 ### $25 Tier
 
 What you get:
@@ -141,7 +165,9 @@ Not all of the orchids that make it on the order will be priced the same. For ex
 
 ### Can I get my money back?
 
-Unfortunately, no. All sales are final. I cannot guarantee the quantity or quality of the orchids we receive, I can only promise to be as transparent and fair as possible.
+Yes! Well, it depends. If you change your mind _before_ I place the final order with HBI, I am more than happy to return your contribution. If you would like to do this, please let me know.
+
+However, once I have placed the order with HBI I cannot, unfortunately, issue refunds. I cannot guarantee the quantity or quality of the orchids we receive, I can only promise to be as transparent and fair as possible.
 
 ### What supplies should I get?
 
