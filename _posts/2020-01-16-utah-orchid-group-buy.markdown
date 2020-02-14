@@ -25,7 +25,7 @@ I have selected [HBI](http://www.orchidflask.com/mainpage/orchidflaskscatalog.ht
 
 January 16, 2020: I begin accepting order contributions
 
-By Late January: I send out orchid variety preference surveys
+February 14, 2020: I send out orchid variety preference surveys
 
 February 15, 2020: Contributions close and I put together the order and send it off to HBI
 
