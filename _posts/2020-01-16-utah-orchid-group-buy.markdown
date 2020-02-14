@@ -5,6 +5,8 @@ date:   2019-01-16 13:12:11
 comments: true
 ---
 
+Disclaimer: Flasked orchids are _very small_ and require a particular environment and care to grow to adulthood. Depending on the care they receive, many may not survive to adulthood.
+
 ![sample orchids]({{ site.url }}/assets/orchids/one.jpg)
 
 Do you want to expand your orchid collection on a budget? Maybe grow something that is _not_ a phalaenopsis? Join this spring's Utah Orchid Flask Group Buy.
