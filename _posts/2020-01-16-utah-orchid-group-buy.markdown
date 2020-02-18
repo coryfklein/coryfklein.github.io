@@ -5,6 +5,30 @@ date:   2019-01-16 13:12:11
 comments: true
 ---
 
+## Contributions have closed!
+
+If you've come looking to contribute to the Spring 2020 buy, the contributions are now closed. If you'd like to be notified of the next time we do a group flask buy, then you can share your email address and I'll ping you when the next one is happening.
+
+<!-- Begin Mailchimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup">
+<form action="https://coryklein.us4.list-manage.com/subscribe/post?u=8dc5790004c2dfa82c7f281df&amp;id=a26ea42e04" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+	<label for="mce-EMAIL">Subscribe for updates</label>
+	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_8dc5790004c2dfa82c7f281df_a26ea42e04" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
+<!--End mc_embed_signup-->
+
 Disclaimer: Flasked orchids are _very small_ and require a particular environment and care to grow to adulthood. Depending on the care they receive, many may not survive to adulthood.
 
 ![sample orchids]({{ site.url }}/assets/orchids/one.jpg)
@@ -27,7 +51,9 @@ January 16, 2020: I begin accepting order contributions
 
 February 14, 2020: I send out orchid variety preference surveys
 
-February 15, 2020: Contributions close and I put together the order and send it off to HBI
+February 15, 2020: Contributions close
+
+February 18, 202: I put together the order and send it off to HBI
 
 Late February - Early March: The shipment arrives via USPS at my home in Pleasant Grove. I will divide the flasks into each individual contributor's allotments and notify everyone when they are ready. Unless you arrange otherwise, you will have 3 days to come by my home and pick up your orchids.
 
@@ -44,30 +70,6 @@ In the tiers below I list quantities in the form "5-8+". Because there are no gu
 * You will not receive fewer than the minimum stated
 * I will divide the total number of orchids evenly based on your contribution to the order - so any extra orchids I receive will be divided evenly. I will not be be keeping any for myself beyond what is allotted me based on my own monetary contribution to the order.
 
-### Can't Decide?
-
-Join the mailing list and I'll send you a reminder before contributions close.
-
-<!-- Begin Mailchimp Signup Form -->
-<link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
-	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-</style>
-<div id="mc_embed_signup">
-<form action="https://coryklein.us4.list-manage.com/subscribe/post?u=8dc5790004c2dfa82c7f281df&amp;id=a26ea42e04" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-	<label for="mce-EMAIL">Subscribe for updates</label>
-	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
-    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_8dc5790004c2dfa82c7f281df_a26ea42e04" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-    </div>
-</form>
-</div>
-<!--End mc_embed_signup-->
-
 ### $25 Tier
 
 What you get:
@@ -75,9 +77,7 @@ What you get:
 * 3-5+ labelled baby orchids from at least 2 species
 * Regular text updates on the order
 
-Send payment via Venmo to @Cory-Klein-1 or use one of the buttons below.
-
-<div id="paypal-button-container-1"></div>
+Orders closed
 
 ### $50 Tier
 
@@ -87,9 +87,7 @@ What you get:
 * Regular text updates on the order
 * You may choose 1 sub-$40 species from [the catalog](http://www.orchidflask.com/mainpage/orchidflaskscatalog.html#phal) and I will guarantee it gets on the order
 
-Send payment via Venmo to @Cory-Klein-1 or use one of the buttons below.
-
-<div id="paypal-button-container-2"></div>
+Orders closed
 
 ### $75 Tier
 
@@ -97,9 +95,7 @@ Send payment via Venmo to @Cory-Klein-1 or use one of the buttons below.
 * Regular text updates on the order
 * You may choose 1 sub-$65 species from [the catalog](http://www.orchidflask.com/mainpage/orchidflaskscatalog.html#phal) and I will guarantee it gets on the order
 
-Send payment via Venmo to @Cory-Klein-1 or use one of the buttons below.
-
-<div id="paypal-button-container-3"></div>
+Orders closed
 
 ### $100 Tier
 
@@ -109,35 +105,7 @@ Send payment via Venmo to @Cory-Klein-1 or use one of the buttons below.
 
 Send payment via Venmo to @Cory-Klein-1 or use one of the buttons below.
 
-<div id="paypal-button-container-4"></div>
-<script src="https://www.paypal.com/sdk/js?client-id=AXE2bnuSxm1-645jQAvD7fGJ8lRTAWaf8tjpOP1z5qoXD6PfXtYsD7sh2IxS9BrWr-QemA2Ezaqqw2H5&currency=USD" data-sdk-integration-source="button-factory"></script>
-<script>
-    [ { id: '1', price: '25' }, { id: '2', price: '50' }, { id: '3', price: '75' }, { id: '4', price: '100' } ].forEach(function(o) {
-      paypal.Buttons({
-          style: {
-              shape: 'rect',
-              color: 'gold',
-              layout: 'vertical',
-              label: 'paypal',
-              
-          },
-          createOrder: function(data, actions) {
-              return actions.order.create({
-                  purchase_units: [{
-                      amount: {
-                          value: o.price
-                      }
-                  }]
-              });
-          },
-          onApprove: function(data, actions) {
-              return actions.order.capture().then(function(details) {
-                  alert('Transaction completed by ' + details.payer.name.given_name + '!');
-              });
-          }
-      }).render('#paypal-button-container-' + o.id);
-    });
-</script>
+Orders closed
 
 ### Contributions >$100
 
