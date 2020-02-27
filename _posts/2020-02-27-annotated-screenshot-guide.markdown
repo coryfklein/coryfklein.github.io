@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Simple, Quick, and Professional Annotated Screenshots in macOS"
-date:   2019-02-27 09:02:03
+date:   2020-02-27 09:02:03
 comments: true
 ---
 
