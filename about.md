@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
-My name is Cory Klein. I'm interested in books, bitcoin, software, and tech.
+My name is Cory Klein. I'm interested in computer science, sci-fi/fantasy, parenting, and tech.
 
-I have experience in Java, Scala, C++, and web tech.
+Favorite video games: Factorio, X-COM, Into The Breach, Terraria
+
+Favorite language: Scala
