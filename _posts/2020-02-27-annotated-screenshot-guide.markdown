@@ -7,11 +7,13 @@ comments: true
 
 ![Example annotated screenshot of highlighting Firefox in best browsers google search]({{ site.url }}/assets/annotated-screenshots-guide/best-browsers.png)
 
-Here's how to make simple, clean, and professional-looking annotated screenshots. Annotating screenshots like this immediately draws visual attention to the item you care about and will help you communicate better. If you share a giant screenshot with lots of items in it and expect our audience to intuitively pick out what you meant them to see, you're setting yourself up for failure.
+Here's how to make simple, clean, and professional-looking annotated screenshots. Annotating screenshots like this immediately draws visual attention to the item you care about and will help you communicate better. This kind of annotation prompts your audience to immediately pick out the pieces of information you want them to see.
+
+Although this guide may make the process appear long, with practice it can take less than 15 seconds (yes, I timed myself) from start to finish to add one of these simple annotations to any given screenshot.
 
 ## Make The Screenshot
 
-[⌃⇧⌘+4](https://support.apple.com/en-us/HT201361) is usually what you want - it will turn the cursor into a cross-hair and allow you to visually select a rectangle on the screen that you want to grab. Using the ⌃ key tells it to copy the screenshot to the clipboard, which I prefer. But you can leave it off if you'd rather the screenshot be saved to a file.
+[⌃⇧⌘+4](https://support.apple.com/en-us/HT201361) is usually what you want - it will turn the cursor into a cross-hair and allow you to visually select a rectangle on the screen that you want to grab. The addition of the ⌃ key tells it to copy the screenshot to the clipboard (instead of writing it to file), which I strongly recommend.
 
 ![Example showing how the crosshairs selection works]({{ site.url }}/assets/annotated-screenshots-guide/crosshairs.jpg)
 
@@ -19,7 +21,7 @@ _Pro tip: If you want to capture the entire window, then hit the space bar and j
 
 ## Open
 
-Open your favorite photo editor. Most Photoshop alternatives have the functionality you need. I personally recommend Pixelmator, a Photoshop-like app made especially for macOS that does nearly everything Photoshop does, but for only $40 and none of Adobe's hostile annual licensing nonsense.
+Open your favorite photo editor. Most Photoshop alternatives have the functionality you need. I personally recommend [Pixelmator](https://www.pixelmator.com/mac/), a Photoshop-like app made especially for macOS that does nearly everything Photoshop does, but for only $40 and none of Adobe's hostile annual licensing nonsense.
 
 ![The new file dialog in Pixelmator, showing the dimensions imported from the clipboard image]({{ site.url }}/assets/annotated-screenshots-guide/new-file-dialog.png)
 
@@ -55,6 +57,8 @@ _Watch for the dashed lines crawling around the border of the image to know you'
 
 ![Opacity changed to 50 percent]({{ site.url }}/assets/annotated-screenshots-guide/50-opacity.png)
 
+_What color should you use? See extra tips at the bottom for details._
+
 ## Share
 
 ![all of the image selected]({{ site.url }}/assets/annotated-screenshots-guide/all-selected.png)
@@ -71,12 +75,14 @@ When making multiple rectangles, consider using text to add simple numbers adjac
 
 ![example of numbering multiple highlights]({{ site.url }}/assets/annotated-screenshots-guide/numbered-example.png)
 
-I recommend always filling with black, except when the primary content is already black (like a terminal), then use pure white
+I recommend always filling with black (#000000), except when the primary content is already black (like a terminal), then use pure white (#FFFFFF). You can play with opacity, but 50% is a solid choice that works well on most all images.
 
 ![example of white fill on black background]({{ site.url }}/assets/annotated-screenshots-guide/white-fill.png)
 
-In Pixelmator you can set the default to black by selecting the brush tool (B), changing the color to black, then quitting and re-opening Pixelmator
+In Pixelmator you can set the default color to black by selecting the brush tool (B), changing the color to black, then quitting and re-opening Pixelmator
 
 ![how to change the default color]({{ site.url }}/assets/annotated-screenshots-guide/default-color.png)
 
-The instructions I give here are geared towards relying on the clipboard. I find this to be much faster and easier, particularly because screenshots are so short-lived. But you should be able to use files as your intermediary storage between steps with minimal changes to the procedure.
+## Clipboard vs Files
+
+The instructions I give here are geared towards utilizing the clipboard. I find this to be much faster and easier, particularly because screenshots are so short-lived. But you should be able to use files as your intermediary storage between steps with minimal changes to the procedure.
