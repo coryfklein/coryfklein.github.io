@@ -7,9 +7,9 @@ comments: true
 
 ![Example annotated screenshot of highlighting Firefox in best browsers google search]({{ site.url }}/assets/annotated-screenshots-guide/best-browsers.png)
 
-Annotating screenshots like this immediately draws attention to the object of interest and seriously levels up your communication skill.
+Annotating screenshots like this immediately draws attention to the object of interest in a professional manner and seriously levels up what is today becoming a vital communication skill.
 
-Although this guide may make the process appear long, with practice it can take less than 15 seconds (yes, I timed myself) from start to finish to add one of these simple annotations to any given screenshot.
+Although this guide may make the process appear long, with practice it can take _less than 15 seconds from start to finish_ (yes, I timed it) to add one of these annotations to any given screenshot.
 
 ## Make The Screenshot
 
@@ -17,7 +17,7 @@ Although this guide may make the process appear long, with practice it can take 
 
 ![Example showing how the crosshairs selection works]({{ site.url }}/assets/annotated-screenshots-guide/crosshairs.jpg)
 
-_Pro tip: If you want to capture the entire window, then hit the space bar and click once on the window you want. MacOS will even add a pretty drop shadow, see the image at the top of this post for an example._
+_Pro tip: If you want to capture the entire window, then hit the space bar and click once on the window you want. MacOS will even add a pretty drop shadow, see the very next image for an example._
 
 ## Open It In Your Editor
 
@@ -25,7 +25,7 @@ Open your favorite photo editor. Most Photoshop alternatives have the functional
 
 ![The new file dialog in Pixelmator, showing the dimensions imported from the clipboard image]({{ site.url }}/assets/annotated-screenshots-guide/new-file-dialog.png)
 
-⌘+N creates a new image to edit with, and Pixelmator will conveniently size it the exact same dimensions as the image in the clipboard.
+⌘+N creates a new image to edit with and Pixelmator will conveniently size it the exact same dimensions as the image in the clipboard.
 
 ![The empty canvas in Pixelmator, ready to paste in the image]({{ site.url }}/assets/annotated-screenshots-guide/empty-canvas.png)
 
@@ -41,13 +41,13 @@ Use the _Rectangular Marquee Tool_ (keyboard shortcut M) to select the part of t
 
 ![A rectangular selection has been made]({{ site.url }}/assets/annotated-screenshots-guide/rectangle-selected.png)
 
-_Tip: You can add multiple by holding ⇧ on subsequent selections_
+_Tip: You can add multiple rectangles by holding ⇧ on subsequent selections_
 
 ⇧⌘+I to invert the selection. This will allow you to fill in everything _except_ what you selected.
 
 ![The selection has been inverted]({{ site.url }}/assets/annotated-screenshots-guide/inverted-selection.png)
 
-_Watch for the dashed lines crawling around the border of the image to know you've successfully inverted the selection_
+_Watch for the dashed lines crawling around the border of the image to know you've successfully inverted the selection._
 
 ## Shade Fill
 
@@ -71,7 +71,7 @@ _What color should you use? See extra tips at the bottom for details._
 
 ## Extra Tips And Notes
 
-I recommend always filling with black (#000000), except when the primary content is already black (like a terminal), then use pure white (#FFFFFF). You can play with opacity, but 50% is a solid choice that works well on most all images. Adding hue or color to the shade is almost always a bad idea, rather than focusing attention on the object you highlighted, it distracts the user's attention to the color itself.
+I recommend always filling with black (#000000), except when the primary content is already black (like a terminal), then use pure white (#FFFFFF). You can play with opacity, but 50% is a solid choice that works well on most images. Adding hue or color to the shade is usually a bad idea; it distracts the user's attention on the color itself rather than focusing it on the object you highlighted.
 
 ![example of white fill on black background]({{ site.url }}/assets/annotated-screenshots-guide/white-fill.png)
 
